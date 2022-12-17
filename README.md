@@ -1,6 +1,6 @@
 # Radios
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="radios.png" alt="Imagem principal">
 
 > Aplicativo criado com a função de poder ouvir rádios em qualquer lugar do mundo.
 
